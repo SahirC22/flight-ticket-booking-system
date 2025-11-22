@@ -102,7 +102,7 @@ ID: 12 | Vistara | 2025-11-27 09:45 → 14:20 | Seats: 18 | Price: ₹6200 | Dur
 
 ---
 
-## � Booking Example
+##  Booking Example
 
 ```
 Enter flight ID to book: 12
