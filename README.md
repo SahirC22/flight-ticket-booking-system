@@ -55,14 +55,14 @@ Flight Ticket Booking System/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flight-ticket-booking-system.git
+git clone https://github.com/SahirC22/flight-ticket-booking-system.git
 cd flight-ticket-booking-system
 ```
 
 2. Run the program:
 
 ```bash
-python app.py
+./app.py
 ```
 
 (Use `python3` if required)
