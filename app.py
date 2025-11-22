@@ -343,10 +343,10 @@ def main():
         elif choice == "4":
             cancel_booking()
         elif choice == "5":
-            print("\n✅ \033[1mThank you for using our system\033[0m!\n")
+            print("\n \033[1mThank you for using our system\033[0m!\n")
             break
         else:
-            print("\n❌ Invalid choice!\n")
+            print("\nERROR: Invalid choice!\n")
 
 
 if __name__ == "__main__":
